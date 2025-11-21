@@ -101,6 +101,13 @@ cd java_chat
 
 ---
 
+## 🚀 실행 방법 (How to Run)
+
+### 실행 화면 예시:
+![로그인 화면](<img width="517" height="736" alt="image" src="https://github.com/user-attachments/assets/92ae8aaf-0778-4dc2-9171-aeaf6d6f18f2" />)
+![클라이언트 채팅 화면](images/client_chat.png)
+
+
 ## 📚 학습 포인트 (What You Learn)
 
 이 프로젝트를 통해 다음과 같은 내용을 학습/정리할 수 있습니다.
