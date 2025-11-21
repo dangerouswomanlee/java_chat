@@ -101,11 +101,41 @@ cd java_chat
 
 ---
 
-## 🚀 실행 방법 (How to Run)
+아래처럼 **간결하면서도 깔끔하고 보기 좋은 형식**으로 정리해드릴 수 있습니다.
+기존 GitHub README 스타일에 가장 잘 맞는 형태입니다.
 
-### 실행 화면 예시:
-![로그인 화면](<img width="517" height="736" alt="image" src="https://github.com/user-attachments/assets/92ae8aaf-0778-4dc2-9171-aeaf6d6f18f2" />)
-![클라이언트 채팅 화면](images/client_chat.png)
+---
+
+## 🚀 실행 예시 (How to Run)
+
+아래는 Angel Talk(Java Chat)의 주요 화면 예시입니다.
+
+---
+
+### 🔐 로그인 화면
+
+![로그인 화면](image/login.png)
+
+---
+
+### 📝 회원가입 화면
+
+![회원가입 화면](image/signup.png)
+
+---
+
+### 🏠 로비 화면
+
+![로비 화면](image/lobby.png)
+
+---
+
+### 💬 채팅 화면
+
+![채팅 화면](image/chat.png)
+
+---
+
 
 
 ## 📚 학습 포인트 (What You Learn)
